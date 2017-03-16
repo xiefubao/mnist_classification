@@ -1,0 +1,9 @@
+initial learning rate:0.001
+activation function: 0
+hidden layer unit number : 300
+
+
+the learning rate now :  0.001
+the accuracy on train data now :  0
+the learning rate now :  0.001
+the accuracy on train data now :  0.144

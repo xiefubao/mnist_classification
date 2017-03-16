@@ -1,0 +1,3085 @@
+initial learning rate:0.001
+activation function: 0
+hidden layer unit number : 300
+
+
+the learning rate now :  0.001
+the accuracy on train data now :  0
+the learning rate now :  0.001
+the accuracy on train data now :  0.144
+the learning rate now :  0.001
+the accuracy on train data now :  0.274
+the learning rate now :  0.001
+the accuracy on train data now :  0.632
+the learning rate now :  0.001
+the accuracy on train data now :  0.692
+the learning rate now :  0.001
+the accuracy on train data now :  0.762
+the learning rate now :  0.001
+the accuracy on train data now :  0.808
+the learning rate now :  0.001
+the accuracy on train data now :  0.798
+the learning rate now :  0.001
+the accuracy on train data now :  0.804
+the learning rate now :  0.001
+the accuracy on train data now :  0.756
+the learning rate now :  0.001
+the accuracy on train data now :  0.776
+the learning rate now :  0.001
+the accuracy on train data now :  0.804
+the learning rate now :  0.001
+the accuracy on train data now :  0.82
+the learning rate now :  0.001
+the accuracy on train data now :  0.85
+the learning rate now :  0.001
+the accuracy on train data now :  0.88
+the learning rate now :  0.001
+the accuracy on train data now :  0.846
+the learning rate now :  0.001
+the accuracy on train data now :  0.886
+the learning rate now :  0.001
+the accuracy on train data now :  0.866
+the learning rate now :  0.001
+the accuracy on train data now :  0.864
+the learning rate now :  0.001
+the accuracy on train data now :  0.868
+the learning rate now :  0.001
+the accuracy on train data now :  0.89
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.882
+the learning rate now :  0.001
+the accuracy on train data now :  0.894
+the learning rate now :  0.001
+the accuracy on train data now :  0.878
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.886
+the learning rate now :  0.001
+the accuracy on train data now :  0.872
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.856
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.864
+the learning rate now :  0.001
+the accuracy on train data now :  0.898
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.894
+the learning rate now :  0.001
+the accuracy on train data now :  0.898
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.88
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.886
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.894
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.892
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.898
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.894
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.892
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the epoch times: 1
+the learning rate now :  0.001
+the accuracy on test data now :  0.9275
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.02
+the learning rate now :  0.001
+the accuracy on train data now :  0.876
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.894
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the epoch times: 2
+the learning rate now :  0.001
+the accuracy on test data now :  0.9334
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.02
+the learning rate now :  0.001
+the accuracy on train data now :  0.864
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.964
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.96
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the epoch times: 3
+the learning rate now :  0.001
+the accuracy on test data now :  0.933
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.016
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the epoch times: 4
+the learning rate now :  0.001
+the accuracy on test data now :  0.9342
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.018
+the learning rate now :  0.001
+the accuracy on train data now :  0.836
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.962
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the epoch times: 5
+the learning rate now :  0.001
+the accuracy on test data now :  0.9376
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.018
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.966
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the epoch times: 6
+the learning rate now :  0.001
+the accuracy on test data now :  0.9379
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.018
+the learning rate now :  0.001
+the accuracy on train data now :  0.888
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.96
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the epoch times: 7
+the learning rate now :  0.001
+the accuracy on test data now :  0.9351
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.018
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.96
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.902
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the epoch times: 8
+the learning rate now :  0.001
+the accuracy on test data now :  0.9352
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.016
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.96
+the learning rate now :  0.001
+the accuracy on train data now :  0.964
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.962
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.97
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the epoch times: 9
+the learning rate now :  0.001
+the accuracy on test data now :  0.9335
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.018
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.896
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.916
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the epoch times: 10
+the learning rate now :  0.001
+the accuracy on test data now :  0.9365
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.016
+the learning rate now :  0.001
+the accuracy on train data now :  0.868
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.956
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.91
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.964
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the epoch times: 11
+the learning rate now :  0.001
+the accuracy on test data now :  0.9349
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.016
+the learning rate now :  0.001
+the accuracy on train data now :  0.9
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.964
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.906
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.904
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.912
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the epoch times: 12
+the learning rate now :  0.001
+the accuracy on test data now :  0.9364
+
+the learning rate now :  0.001
+the accuracy on train data now :  0.02
+the learning rate now :  0.001
+the accuracy on train data now :  0.888
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.922
+the learning rate now :  0.001
+the accuracy on train data now :  0.95
+the learning rate now :  0.001
+the accuracy on train data now :  0.918
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.936
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.914
+the learning rate now :  0.001
+the accuracy on train data now :  0.924
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.908
+the learning rate now :  0.001
+the accuracy on train data now :  0.93
+the learning rate now :  0.001
+the accuracy on train data now :  0.952
+the learning rate now :  0.001
+the accuracy on train data now :  0.944
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.954
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.958
+the learning rate now :  0.001
+the accuracy on train data now :  0.932
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.934
+the learning rate now :  0.001
+the accuracy on train data now :  0.94
+the learning rate now :  0.001
+the accuracy on train data now :  0.948
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.946
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.92
+the learning rate now :  0.001
+the accuracy on train data now :  0.926
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.928
+the learning rate now :  0.001
+the accuracy on train data now :  0.942
+the learning rate now :  0.001
+the accuracy on train data now :  0.938
